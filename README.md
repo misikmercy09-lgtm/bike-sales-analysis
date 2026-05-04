@@ -64,16 +64,6 @@ bike-sales-analysis/
 │
 ├── Bike Sale Analysis.ipynb
 ├── README.md
-├── requirements.txt (optional)
-└── images/ (optional)
-
-## How to Run the Project
-
-1. Clone the repository
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Open the notebook:
-   jupyter notebook
 
 ## Author
 
